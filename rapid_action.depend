@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1542121576 source:c:\users\ashik\onedrive\desktop\project\naruto_action\main.cpp
+	<windows.h>
+	"iGraphics.h"
+	"bar.h"
+	"bullet.h"
+
+1541913684 c:\users\ashik\onedrive\desktop\project\naruto_action\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1541913346 c:\users\ashik\onedrive\desktop\project\naruto_action\bar.h
+
+1541875325 c:\users\ashik\onedrive\desktop\project\naruto_action\bullet.h
+
