@@ -5,4 +5,4 @@ Our project is a simple game where a character is floating in space and there ar
 * Download the Rapid Action game from this link : [ https://github.com/ashik061/Rapid_Action ]
 * Download codeblocks : [ https://filehippo.com/download_codeblocks/ ]
 * Download and add iGraphics files on codeblocks : [ http://ashikur.buet.ac.bd/CSE101/UserGuide.pdf ]
-* Build and run the "rapid_action.cbp" file
+* Build and run the "rapid_action.cpp" file
